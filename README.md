@@ -5,6 +5,7 @@ Application de bureau en C#
 
 <img width="602" alt="image" src="https://github.com/jewathe/Gestion-de-contacts/assets/89857594/6c62d8df-2f66-4e6b-9102-9fb80a53cd59">
 
+<img width="574" alt="image" src="https://github.com/jewathe/Gestion-de-contacts/assets/89857594/5f91b9b5-a537-43f3-8db8-4e27bf825c29">
 
 ### L'utilisateur doit avoir un compte client
 

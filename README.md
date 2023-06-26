@@ -1,5 +1,11 @@
 # Gestion-de-contacts
 Application de bureau en C#
+
+### analyse
+
+<img width="602" alt="image" src="https://github.com/jewathe/Gestion-de-contacts/assets/89857594/6c62d8df-2f66-4e6b-9102-9fb80a53cd59">
+
+
 ### L'utilisateur doit avoir un compte client
 
 

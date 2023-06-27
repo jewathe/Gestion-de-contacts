@@ -47,4 +47,4 @@ Application de bureau en C#
 
 <img width="960" alt="image" src="https://github.com/jewathe/Gestion-de-contacts/assets/89857594/09bc963b-b95b-48f8-a66b-99b5060e5070">
 
-### on se deconnecter
+### pouvoir se deconnecter
